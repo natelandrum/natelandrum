@@ -38,6 +38,14 @@ I'm Nathan, a software development student at Brigham Young University-Idaho wit
 - ⚙️ Development Tools: Git, CLI, CI/CD
 - 📚 Methodologies: Agile, Scrum
 
+## Top Projects
+- [Flashcards](https://flashcard-site-gold.vercel.app/)
+- [Vocab Extractor](https://chromewebstore.google.com/detail/vocab-extractor/mdgbblkeiiflhnfhipkholfpbmpdfpfo?hl=en) for Flashcards site
+- [Sudoku Solver](https://sudokusolver-production-12d5.up.railway.app/)
+- [Real-time chat app](https://chat-app-sandy-phi-61.vercel.app/)
+- [File Sharing System](https://file-sharing-system-psi.vercel.app/)
+- [Family Recipe Vault](https://family-recipe-vault.vercel.app/)
+
 ## Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/nathan-landrum-dev/)
