@@ -39,11 +39,11 @@ I'm Nathan, a software development student at Brigham Young University-Idaho wit
 - 📚 Methodologies: Agile, Scrum
 
 ## Top Projects
-- [Flashcards](https://flashcard-site-gold.vercel.app/)
+- [Flashcards](https://flashcards.nlandrum.dev/)
 - [Vocab Extractor](https://chromewebstore.google.com/detail/vocab-extractor/mdgbblkeiiflhnfhipkholfpbmpdfpfo?hl=en) for Flashcards site
-- [Sudoku Solver](https://sudokusolver-production-12d5.up.railway.app/)
-- [Real-time chat app](https://chat-app-sandy-phi-61.vercel.app/)
-- [File Sharing System](https://file-sharing-system-psi.vercel.app/)
+- [Sudoku Solver](https://sudoku-solver.nlandrum.dev/)
+- [Real-time chat app](https://chat.nlandrum.dev/)
+- [File Sharing System](https://file-sharing.nlandrum.dev/)
 - [Family Recipe Vault](https://family-recipe-vault.vercel.app/)
 
 ## Let's Connect!
@@ -52,4 +52,4 @@ I'm Nathan, a software development student at Brigham Young University-Idaho wit
 
 
 
-Feel free to explore my repositories, contribute, or reach out—let’s build something great together! 🚀
+Feel free to explore my repositories, contribute, or reach out. Let’s build something great together! 🚀
